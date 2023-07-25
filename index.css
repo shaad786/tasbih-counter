@@ -1,11 +1,10 @@
 body {
     background-image: url("muhsin-unsplash.jpg");
-    background-size: cover;
     font-family: 'Handjet', cursive;
     font-weight: 300;
     text-align: center;
     color: beige;
-    height: 100vh;
+    background-size: 100% 100%;
 }
  .container{
     background: #0000009e;
